@@ -1,0 +1,6 @@
+name: Notifications
+description: Framework that enables a user to be notified.
+package: Notifications
+
+type: module
+core: 8.x
